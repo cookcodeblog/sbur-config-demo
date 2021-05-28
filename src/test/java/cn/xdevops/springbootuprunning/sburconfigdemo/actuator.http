@@ -1,0 +1,6 @@
+# spring boot app actuator
+GET http://localhost:8080/actuator
+Content-Type: application/json
+Connection: keep-alive
+
+###
